@@ -21,6 +21,7 @@ Você deve implementar um sistema de controle para monitorar a entrada de alien�
 - Encerramento do Programa: Permitir ao usuário encerrar o programa de forma adequada.
 
 Funções extras:
+  
   -Ranking de periculosidade
   
   -Verificar todos planetas, espécies e alienígenas cadastrados.
