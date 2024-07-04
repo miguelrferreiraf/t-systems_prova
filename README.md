@@ -29,7 +29,7 @@ Funções extras:
   
   -Sistema de pesquisa como:
    
-   - Mostrar todos os alienígenas de uma espécie específica.
+   A. Mostrar todos os alienígenas de uma espécie específica.
    
-   - Mostrar todos os alienígenas que entraram no planeta nos últimos 6 meses.
+   B. Mostrar todos os alienígenas que entraram no planeta nos últimos 6 meses.
 
