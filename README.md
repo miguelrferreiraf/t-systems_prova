@@ -1,5 +1,7 @@
 # SISTEMA DE CONTROLE DE ALIENÍGENAS
 
+*OS CÓDIGOS ESTÃO NO ARQUIVO '/src'*
+
 By Miguel Ferreira
 
 Professor: Rannyer Thom
