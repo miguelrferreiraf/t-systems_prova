@@ -40,8 +40,20 @@ public class Main {
             Alienigena alien = alienigenas[i];
             System.out.println((i + 1) + ". " + alien.getNome() + " --> Periculosidade: " + alien.getPericulosidade());
         }
+
+        String planetaPesquisado = "Vulcano";
+        System.out.println("----------------------------------------------------");
+        System.out.println("Resultado para " + planetaPesquisado + ":");
+
+        boolean encontrou = false;
+        for (Alienigena alien : alienigenas) {
+            if (alien.getPlenetaOrigem().equalsIgnoreCase(planetaPesquisado)) {
+                System.out.println(alien.getNome());
+                encontrou = true;
+            }
+        }
     }
 }
 
-// NÃO CONSEGUI FAZER O NEGÓCIO DE MOSTRAR QUAL ALIENÍGENA CHEGOU NOS ÚLTIMO SEIS MESES.
+// NÃO CONSEGUI FAZER O NEGÓCIO DE MOSTRAR QUAL ALIENÍGENA CHEGOU NOS ÚLTIMOS SEIS MESES.
 // TODO O RESTO, DE UMA FORMA OU DE OUTRA, ESTÁ INFORMADO NO OUTPUT.
