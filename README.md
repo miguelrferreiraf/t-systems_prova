@@ -19,10 +19,15 @@ Você deve implementar um sistema de controle para monitorar a entrada de alien�
 - Encerramento do Programa: Permitir ao usuário encerrar o programa de forma adequada.
 
 Funções extras:
--Ranking de periculosidade
--Verificar todos planetas, espécies e alienígenas cadastrados.
--Verificar alienígenas em quarentena
--Sistema de pesquisa como:
-   -Mostrar todos os alienígenas de uma espécie específica.
-   -Mostrar todos os alienígenas que entraram no planeta nos últimos 6 meses.
+  -Ranking de periculosidade
+  
+  -Verificar todos planetas, espécies e alienígenas cadastrados.
+  
+  -Verificar alienígenas em quarentena
+  
+  -Sistema de pesquisa como:
+   
+   - Mostrar todos os alienígenas de uma espécie específica.
+   
+   - Mostrar todos os alienígenas que entraram no planeta nos últimos 6 meses.
 
